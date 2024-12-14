@@ -11,3 +11,7 @@ os argumentos anteriores os arquivos e pastas a serem inseridos no arquivo .rar
 # *extrair.py*:
 serve para, extração de um arquivo .rar existente, onde, o primeiro argumentos deve ser o arquivo .rar e, o ultimo argumento deve ser 
 o nome da pasta que o arquivo .rar será extraído, a não deve existir, pois ela será criada.
+
+# *pyrar.exe*:
+ele, é a junção do *novo.py* + *extrair.py* onde, você deve informar o modo primeiro, 'n' para 'novo', 'e' para 'extrair', e, depois 
+do modo, deve vim os outros argumentos.
