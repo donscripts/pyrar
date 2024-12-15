@@ -1,4 +1,4 @@
-<img src="capa.jpg" style="width: 60%; height: 60%;">
+<img src="capa.jpg" style="width: 80%; height: 80%;">
 # pyrar
 manipulacao de arquivos .rar
 
