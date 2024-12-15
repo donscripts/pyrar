@@ -14,4 +14,4 @@ o nome da pasta que o arquivo .rar será extraído, a não deve existir, pois el
 
 # *pyrar.exe*:
 ele, é a junção do *novo.py* + *extrair.py* onde, você deve informar o modo primeiro, 'n' para 'novo', 'e' para 'extrair', e, depois 
-do modo, deve vim os outros argumentos.
+do modo, deve vim os outros argumentos, o código do *pyrar.exe* é o *pyrar.py*
